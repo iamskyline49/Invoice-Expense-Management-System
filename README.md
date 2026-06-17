@@ -147,17 +147,6 @@ npm run start
 npm run lint
 ```
 
----
-
-## Screenshots
-
-Add screenshots inside a folder named `screenshots/`, then update this section:
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Invoice Page](screenshots/invoice.png)
-![Expense Page](screenshots/expense.png)
-```
 
 ---
 
